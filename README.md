@@ -1,4 +1,4 @@
-devops-captone-project
+devops-capstone-project
 
 # DevOps Capstone Template
 
